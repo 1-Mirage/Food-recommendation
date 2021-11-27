@@ -71,7 +71,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1> 📚 goodfood </h1>
+      <h1> 🍔 goodfood </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
         Checkout my favorite food. Select a genre to get started{" "}
